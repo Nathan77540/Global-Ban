@@ -18,8 +18,8 @@ $lang = array(
     "logout" => "Déconnexion",
 
     //Footer
-    "copyright" => "Droits d'auteur",
-    "created" => "Créé par",
+    "copyright" => "Copyright",
+    "created" => "Développé par",
 
     //Common
     "game" => "Jeu",
@@ -30,7 +30,7 @@ $lang = array(
     "view" => "Voir",
     "reason" => "Raison",
     "delete" => "Supprimer",
-    "communityid" => "Community ID",
+    "communityid" => "ID Communautaire",
     "email" => "Email",
     "type" => "Type",
     "enabled" => "Activé",
@@ -201,8 +201,8 @@ $lang = array(
     "addnewadmin" => "Ajouter un nouvel administrateur",
     "emailoptional" => "Email (Facultatif)",
     "addadminbtn" => "Ajouter un administrateur",
-    "communitytooltip" => "Entre le community ID des administrateurs p.ex: 76561198030856249",
-    
+    "communitytooltip" => "Entrez le community ID des administrateurs. Ex: 76561198030856249",
+
     //Settings
     "generalsettings" => "Paramètres géneraux",
     "websitename" => "Nom du site web:",
@@ -223,7 +223,7 @@ $lang = array(
     "password" => "Mot de passe:",
     "smtptype" => "Type de SMTP:",
 	"emailaddress" => "Adresse e-mail:",
-	"emailfrom" => "email de:",
+	"emailfrom" => "Email de:",
 	"updateemailinformation" => "Mise à jour des informations par email",
 
 
@@ -236,5 +236,22 @@ $lang = array(
 	"failedquery" => "Impossible d'afficher le serveur, il doit être hors-ligne.",
 
 	"unbandate" => "Jamais",
-	);
+
+    # Version 3.0.0 changes #
+    "report" => "Signaler un Joueur",
+    "comments" => "Commentaires",
+    "block" => "Bloquer l'Utilisateur",
+    "edit" => "Editer le Bannissement",
+    "unban" => "Débannir l'Utilisateur",
+    "next" => "Suivant",
+    "unblock" => "Débloquer",
+    "unblockusers" => "Débloquer les Utilisateurs",
+
+    # Version 3.2.0 changes #
+    "save" => "Sauvegarder",
+    "cancel" => "Annuler",
+
+
+    "test" => "Placeholder",
+);
 ?>
